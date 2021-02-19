@@ -11,8 +11,8 @@ https://docs.aws.amazon.com/zh_cn/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 ## 实战演习
 
-+ 建立互联网网关
-+ 绑定到VPC(deeplearnaws-vpc)上
++ 建立互联网网关: *deeplearnaws-igw*
++ 绑定到VPC *deeplearnaws-vpc* 上
 
 ## 小马部落(Discord)
 
