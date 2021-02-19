@@ -5,6 +5,10 @@ AWS(亚马逊WEB服务)使用开发入门教学
 
 AWS是亚马逊公司出品的强大到没对手的云端计算平台，让我们一起学习起来，我们也会强大到没有对手，哈哈！
 
+## Youtube视频讲解
+
+https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
+
 ## 课程计划
 
 01. 课程介绍
@@ -18,6 +22,7 @@ AWS是亚马逊公司出品的强大到没对手的云端计算平台，让我�
 09. 网络IP范围设计 - IP Network
 10. 建立VPC - 建立我们自己的IDC
 11. 建立公私网 - 公私分明才能网络安全
+12. 建立互联网网关 - 公开网络和私有网络的主要区别
 
 ## 课程文件
 
