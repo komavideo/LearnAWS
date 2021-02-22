@@ -24,6 +24,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 11. 建立公私网 - 公私分明才能网络安全
 12. 建立互联网网关 - 公开网络和私有网络的主要区别
 13. 建立公网路由表 - 让我们的子网连接到互联网
+14. 两个防火墙 - 网络ACL和安全组SG
 
 ## 课程文件
 
