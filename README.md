@@ -29,6 +29,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 16. 建立AMI - 把自己的系统克隆
 17. 部署一个Web应用 - 建立Node.js+Docker的应用程序
 18. 部署一个DB应用 - 还不行，还差一步设置
+19. 建立私有网段的服务器 - For MySQL
 
 ## 课程文件
 
