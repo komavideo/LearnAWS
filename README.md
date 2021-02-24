@@ -26,6 +26,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 13. 建立公网路由表 - 让我们的子网连接到互联网
 14. 两个防火墙 - 网络ACL和安全组SG
 15. 建立EC2实例 - 开启我们的云端服务器之旅
+16. 建立AMI - 把自己的系统克隆
 
 ## 课程文件
 
