@@ -31,6 +31,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 18. 部署一个DB应用 - 还不行，还差一步设置
 19. 建立私有网段的服务器 - For MySQL
 20. 部署一个DB应用 - MySQL:我来了
+21. 通过 Web 应用连接到 MySQL 数据库服务器
 
 ## 课程文件
 
