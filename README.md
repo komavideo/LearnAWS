@@ -32,6 +32,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 19. 建立私有网段的服务器 - For MySQL
 20. 部署一个DB应用 - MySQL:我来了
 21. 通过 Web 应用连接到 MySQL 数据库服务器
+22. NAT还是真贵 - 注意了，不要无意中被氪金
 
 ## 课程文件
 
