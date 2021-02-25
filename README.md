@@ -33,6 +33,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 20. 部署一个DB应用 - MySQL:我来了
 21. 通过 Web 应用连接到 MySQL 数据库服务器
 22. NAT还是真贵 - 注意了，不要无意中被氪金
+23. 负载均衡 - 通过 ELB 设计高可用性服务
 
 ## 课程文件
 
