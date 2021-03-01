@@ -35,6 +35,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 22. NAT还是真贵 - 注意了，不要无意中被氪金
 23. 负载均衡 - 通过 ELB 设计高可用性服务
 24. 高可用性设计 - 建立新的子网区
+25. 高可用性设计 - 建立 ALB 负载均衡
 
 ## 课程文件
 
