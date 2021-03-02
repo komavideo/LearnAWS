@@ -36,6 +36,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 23. 负载均衡 - 通过 ELB 设计高可用性服务
 24. 高可用性设计 - 建立新的子网区
 25. 高可用性设计 - 建立 ALB 负载均衡
+26. Route53 - 为我指引方向
 
 ## 课程文件
 
