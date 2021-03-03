@@ -38,6 +38,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 25. 高可用性设计 - 建立 ALB 负载均衡
 26. Route53 - 为我指引方向
 27. 注册域名 - freenom
+28. 链接Rout53和freenom - 设置托管区(Hosted Zone)和名字服务器(NS)
 
 ## 课程文件
 
