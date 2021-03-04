@@ -42,6 +42,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 29. Route53 - 解析我的Web服务
 30. Route53 - 解析我的ELB服务
 31. 全球部署 - 新加坡：我来了
+32. Route53 - 分流东京和新加坡区，多值应答路由
 
 ## 课程文件
 
