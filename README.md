@@ -41,6 +41,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 28. 链接Rout53和freenom - 设置托管区(Hosted Zone)和名字服务器(NS)
 29. Route53 - 解析我的Web服务
 30. Route53 - 解析我的ELB服务
+31. 全球部署 - 新加坡：我来了
 
 ## 课程文件
 
