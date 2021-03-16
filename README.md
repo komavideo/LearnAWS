@@ -44,6 +44,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 31. 全球部署 - 新加坡：我来了
 32. Route53 - 分流东京和新加坡区，多值应答路由
 33. RDS - 被管理的数据库服务
+34. MySQL@RDS - 准备工作 - VPC子网,安全组,DB子网组,参数组,选项组
 
 ## 课程文件
 
