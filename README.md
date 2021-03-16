@@ -48,6 +48,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 35. MySQL@RDS - 建立MySQL数据库服务
 36. 连接MySQL - MySQL客户端工具
 37. 连接MySQL - phpMyAdmin管理工具@Docker
+38. 连接MySQL - Node.js Web应用程序
 
 ## 课程文件
 
