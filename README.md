@@ -47,6 +47,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 34. MySQL@RDS - 准备工作 - VPC子网,安全组,DB子网组,参数组,选项组
 35. MySQL@RDS - 建立MySQL数据库服务
 36. 连接MySQL - MySQL客户端工具
+37. 连接MySQL - phpMyAdmin管理工具@Docker
 
 ## 课程文件
 
