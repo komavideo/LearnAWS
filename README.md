@@ -50,6 +50,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 37. 连接MySQL - phpMyAdmin管理工具@Docker
 38. 连接MySQL - Node.js Web应用程序
 39. AWS CLI - 必须会的命令行工具 Command Line Interface
+40. AWS CLI 的安装(Mac/Linux Install)
 
 ## 课程文件
 
