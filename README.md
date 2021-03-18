@@ -52,6 +52,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 39. AWS CLI - 必须会的命令行工具 Command Line Interface
 40. AWS CLI 的安装(Mac/Linux Install)
 41. AWS CLI 授权设置(Credential file settings)
+42. AWS CLI - 操作 EC2 实例，一切皆在命令中
 
 ## 课程文件
 
