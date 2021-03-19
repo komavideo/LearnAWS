@@ -55,6 +55,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 42. AWS CLI - 操作 EC2 实例，一切皆在命令中
 43. Cloud9 - 云端集成开发环境(IDE)
 44. Cloud9 - 建立自己的开发环境
+45. Cloud9 - Node.js的开发与调试
 
 ## 课程文件
 
