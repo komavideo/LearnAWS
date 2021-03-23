@@ -56,6 +56,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 43. Cloud9 - 云端集成开发环境(IDE)
 44. Cloud9 - 建立自己的开发环境
 45. Cloud9 - Node.js的开发与调试
+46. S3 - AWS的存储核心, Simple Storage Service
 
 ## 课程文件
 
