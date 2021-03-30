@@ -59,6 +59,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 46. S3 - AWS的存储核心, Simple Storage Service
 47. S3 - 基本的使用
 48. S3 - 静态网站之王, 快速建立网站之首选
+49. S3 - 区域间复制 - 企业常用, 考试必考之内容
 
 ## 课程文件
 
