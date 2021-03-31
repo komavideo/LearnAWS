@@ -60,6 +60,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 47. S3 - 基本的使用
 48. S3 - 静态网站之王, 快速建立网站之首选
 49. S3 - 区域间复制 - 企业常用, 考试必考之内容
+50. S3 - 网关终端节点 - 私有网络访问S3的捷径
 
 ## 课程文件
 
@@ -68,6 +69,10 @@ https://github.com/komavideo/LearnAWS
 ## 小马部落
 
 https://discord.gg/VSKw72P
+
+## 深学AWS
+
+https://deeplearnaws.com/
 
 ## 小马视频频道
 
