@@ -61,6 +61,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwsyKkNwFUHbZZOJ2gT9qnT9
 48. S3 - 静态网站之王, 快速建立网站之首选
 49. S3 - 区域间复制 - 企业常用, 考试必考之内容
 50. S3 - 网关终端节点 - 私有网络访问S3的捷径
+51. Budgets - 使用预算跟踪成本
 
 ## 课程文件
 
